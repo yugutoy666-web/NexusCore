@@ -1,0 +1,14 @@
+# runtime / private
+*.log
+*.out
+*.pid
+*.pass
+*.token
+*.key
+*.pem
+credentials*
+currencies/
+ledger*.jsonl
+index/
+__pycache__/
+.DS_Store
