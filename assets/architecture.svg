@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="760" viewBox="0 0 1200 760" font-family="sans-serif">
+<rect width="1200" height="760" fill="#070b12"/>
+<text x="600" y="42" fill="#4fd8ff" font-size="26" text-anchor="middle" font-weight="bold">NexusCore · 跨物理介质智联网架构</text>
+<text x="600" y="70" fill="#6b7b96" font-size="13" text-anchor="middle">不是聊天机器人 · 是跨介质智能体操作系统</text>
+
+<!-- 脑 -->
+<rect x="380" y="96" width="440" height="86" rx="12" fill="#101c2c" stroke="#2b5580" stroke-width="2"/>
+<text x="600" y="126" fill="#9fd8ff" font-size="16" text-anchor="middle" font-weight="bold">可替换的脑（廉价）</text>
+<text x="600" y="150" fill="#8fa3b8" font-size="12" text-anchor="middle">大模型池 / 白盒算子（零 Token 寻址）· 每 2s 只接意图</text>
+<line x1="600" y1="182" x2="600" y2="214" stroke="#2b5580" stroke-width="2" marker-end="url(#a)"/>
+
+<!-- 身体：四大能力 -->
+<rect x="120" y="214" width="960" height="150" rx="14" fill="#0c1622" stroke="#1e3a5c" stroke-width="2"/>
+<text x="600" y="238" fill="#4fd8ff" font-size="15" text-anchor="middle" font-weight="bold">身体层（四能力合成）</text>
+<g font-size="13" text-anchor="middle">
+ <rect x="150" y="256" width="210" height="88" rx="10" fill="#0e1a28" stroke="#2f7a58"/><text x="255" y="282" fill="#a8f0c8" font-weight="bold">A11y 语义流</text><text x="255" y="304" fill="#7f96ad" font-size="11">文本节点流（非截图）</text><text x="255" y="322" fill="#7f96ad" font-size="11">text/desc/坐标/edit</text>
+ <rect x="380" y="256" width="210" height="88" rx="10" fill="#0e1a28" stroke="#7a2f38"/><text x="485" y="282" fill="#ffb3bc" font-weight="bold">双生免疫</text><text x="485" y="304" fill="#7f96ad" font-size="11">异层监控 · 心跳+端口</text><text x="485" y="322" fill="#7f96ad" font-size="11">除颤 · 癌变清理</text>
+ <rect x="610" y="256" width="210" height="88" rx="10" fill="#0e1a28" stroke="#2b5580"/><text x="715" y="282" fill="#9fd8ff" font-weight="bold">快慢脑</text><text x="715" y="304" fill="#7f96ad" font-size="11">RAM 高频（不落盘）</text><text x="715" y="322" fill="#7f96ad" font-size="11">磁盘只沉淀大事</text>
+ <rect x="840" y="256" width="210" height="88" rx="10" fill="#0e1a28" stroke="#8a6a2b"/><text x="945" y="282" fill="#f0d8a8" font-weight="bold">文件货币化</text><text x="945" y="304" fill="#7f96ad" font-size="11">应用=黑盒宏节点</text><text x="945" y="322" fill="#7f96ad" font-size="11">面值卡 · 账本 · 验真</text>
+</g>
+<line x1="600" y1="364" x2="600" y2="396" stroke="#2b5580" stroke-width="2" marker-end="url(#a)"/>
+<text x="615" y="386" fill="#5b7288" font-size="11">图论寻址（Node/Edge/Subgraph）</text>
+
+<!-- 统一根 -->
+<rect x="120" y="396" width="960" height="96" rx="14" fill="#0c1622" stroke="#2b5580" stroke-width="2"/>
+<text x="600" y="422" fill="#4fd8ff" font-size="15" text-anchor="middle" font-weight="bold">统一根（FUSE 联邦 · 一个 POSIX 根）</text>
+<g font-size="12" fill="#8fa3b8" text-anchor="middle">
+ <text x="240" y="452">adb · ssh · sftp</text><text x="420" y="452">WebDAV · 端口心跳</text><text x="600" y="452">文件货币币道</text><text x="780" y="452">跨设备同路径读写</text><text x="940" y="452">体哈希身份</text>
+ <text x="600" y="476" fill="#5b7288" font-size="11">位置是变量（IP/MAC 会变）· 身份是常量（型号/CPU/内存/磁盘现场采）</text>
+</g>
+
+<!-- 介质层 -->
+<g font-size="13">
+ <rect x="120" y="520" width="240" height="130" rx="12" fill="#12263f" stroke="#1e3a5c"/><text x="240" y="546" fill="#dfe9ff" font-weight="bold" text-anchor="middle">Android 手机</text><text x="240" y="570" fill="#8fa3b8" font-size="11" text-anchor="middle">传感器层</text><text x="240" y="590" fill="#8fa3b8" font-size="11" text-anchor="middle">嘴/耳/眼/手 · a11y</text><text x="240" y="610" fill="#8fa3b8" font-size="11" text-anchor="middle">待机常开 · 快脑RAM</text>
+ <rect x="387" y="520" width="240" height="130" rx="12" fill="#12263f" stroke="#1e3a5c"/><text x="507" y="546" fill="#dfe9ff" font-weight="bold" text-anchor="middle">Linux 服务器</text><text x="507" y="570" fill="#8fa3b8" font-size="11" text-anchor="middle">常驻脑 + 免疫 + 统一根</text><text x="507" y="590" fill="#8fa3b8" font-size="11" text-anchor="middle">systemd/cron · 镜像 · 网关</text><text x="507" y="610" fill="#8fa3b8" font-size="11" text-anchor="middle">快脑 9300（角色可迁移）</text>
+ <rect x="654" y="520" width="240" height="130" rx="12" fill="#12263f" stroke="#1e3a5c"/><text x="774" y="546" fill="#dfe9ff" font-weight="bold" text-anchor="middle">Windows + GPU</text><text x="774" y="570" fill="#8fa3b8" font-size="11" text-anchor="middle">闲置算力层</text><text x="774" y="590" fill="#8fa3b8" font-size="11" text-anchor="middle">桌面自动化 · 渲染 · 触觉</text><text x="774" y="610" fill="#8fa3b8" font-size="11" text-anchor="middle">GetLastInputInfo 零干扰</text>
+ <rect x="921" y="520" width="159" height="130" rx="12" fill="#12263f" stroke="#1e3a5c"/><text x="1000" y="546" fill="#dfe9ff" font-weight="bold" text-anchor="middle">人类数据盘</text><text x="1000" y="570" fill="#8fa3b8" font-size="11" text-anchor="middle">存档 / 素材 / 人的根</text><text x="1000" y="590" fill="#8fa3b8" font-size="11" text-anchor="middle">按写入规范托管</text><text x="1000" y="610" fill="#8fa3b8" font-size="11" text-anchor="middle">只读为主</text>
+</g>
+<line x1="240" y1="520" x2="240" y2="492" stroke="#1e3a5c"/><line x1="507" y1="520" x2="507" y2="492" stroke="#1e3a5c"/><line x1="774" y1="520" x2="774" y2="492" stroke="#1e3a5c"/><line x1="1000" y1="520" x2="1000" y2="492" stroke="#1e3a5c"/>
+
+<text x="600" y="694" fill="#5b7288" font-size="12" text-anchor="middle">角色可迁移 · 接口统一（HTTP/adb/ssh/sftp/FUSE）· 故障可接管（60s 外部免疫除颤）</text>
+<text x="600" y="720" fill="#3f5468" font-size="11" text-anchor="middle">github.com/yugutoy666-web/NexusCore · MIT</text>
+<defs><marker id="a" markerWidth="8" markerHeight="8" refX="6" refY="3" orient="auto"><path d="M0,0 L6,3 L0,6 z" fill="#2b5580"/></marker></defs>
+</svg>
