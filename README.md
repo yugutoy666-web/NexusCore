@@ -8,6 +8,14 @@
 
 ---
 
+## MANIFESTO
+
+> **不要尝试训练一个 100 亿参数的超级大脑，去组装 3 个不同物理介质的计算节点。**
+> **大模型是廉价的脑子，而跨设备组装、因果图论和异层免疫，才是智能体真正的身体。**
+
+**This is not a chatbot. This is a cross-medium agent OS.**
+We are not building a bigger model — we are building a body that any model can wear.
+
 ## 为什么做这个
 
 大多数智能体框架把「记忆、工具、身体」外包给向量库和云服务。我们反过来：
@@ -146,6 +154,7 @@ python3 src/immune.py tick --config immune.json
 - [docs/REPORT-CURRENCY.md](docs/REPORT-CURRENCY.md) — 货币结算三笔 + 假 PNG 拦截实录
 - [docs/REPORT-IMMUNITY.md](docs/REPORT-IMMUNITY.md) — 外部免疫链路实测 + 四个真实 bug 的修复记录
 - [ARCHITECTURE.md](ARCHITECTURE.md) — 分层架构（L0–L9）
+- [docs/PHILOSOPHY.md](docs/PHILOSOPHY.md) — 组装大于单体 · 最终架构图 · 智联网操作系统判据
 - [docs/PRIVACY.md](docs/PRIVACY.md) — **感知同意（产品级隐私机制）**：默认关闭 · 三级授权 · 指示器 · 数据不落盘
 
 ---
