@@ -146,6 +146,7 @@ python3 src/immune.py tick --config immune.json
 - [docs/REPORT-CURRENCY.md](docs/REPORT-CURRENCY.md) — 货币结算三笔 + 假 PNG 拦截实录
 - [docs/REPORT-IMMUNITY.md](docs/REPORT-IMMUNITY.md) — 外部免疫链路实测 + 四个真实 bug 的修复记录
 - [ARCHITECTURE.md](ARCHITECTURE.md) — 分层架构（L0–L9）
+- [docs/PRIVACY.md](docs/PRIVACY.md) — **感知同意（产品级隐私机制）**：默认关闭 · 三级授权 · 指示器 · 数据不落盘
 
 ---
 
